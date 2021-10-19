@@ -7,6 +7,7 @@ public class RedHeadDuck  extends Duck {
 		quackBehavior = new MuteQuack();
 		flyBehavior = new FlyNoWay();
 		}
+	
 	public void display() {
 		System.out.println("red head duck"
 				 );
