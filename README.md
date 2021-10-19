@@ -1,6 +1,6 @@
-# Design patterns
- Patrones de diseño
-##Patron de diseño 
+# Design patterns 🪒🥇⚒✏️📝
+# Patrones de diseño ✅ 💻 🖥
+ 
 ### 1.Patron de estrategia
 
 
